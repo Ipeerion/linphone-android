@@ -157,6 +157,6 @@
                 android:text="@string/menu_reset_log"/>
 
         </LinearLayout>
-    </LinearLayout>
+            </LinearLayout>
 
-</LinearLayout>
+        </LinearLayout>
