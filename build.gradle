@@ -2,7 +2,7 @@
 buildDir = 'bin'
 
 def getPackageName() {
-    return "org.linphone"
+    return "ipeerion.phone"
 }
 
 def firebaseEnable() {
