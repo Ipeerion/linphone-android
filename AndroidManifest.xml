@@ -190,7 +190,7 @@
                 <action android:name="android.intent.action.MAIN"/>
             </intent-filter>
             <intent-filter>
-                <data android:scheme="linphone-config"/> <!-- Change if needed -->
+                <data android:scheme="ipeerion-config"/> <!-- Change if needed -->
                 <action android:name="android.intent.action.VIEW"/>
 
                 <category android:name="android.intent.category.BROWSABLE"/>
@@ -283,10 +283,10 @@
                 <action android:name="com.google.firebase.MESSAGING_EVENT"/>
             </intent-filter>
         </service>
-
+        <!-- Change provider so ipeerion can be installed alongside linphone -->
         <provider
             android:name="android.support.v4.content.FileProvider"
-            android:authorities="org.linphone.provider"
+            android:authorities="ipeerion.provider"
             android:exported="false"
             android:grantUriPermissions="true">
             <meta-data
