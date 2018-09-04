@@ -40,7 +40,7 @@
     </LinearLayout>
 
     <LinearLayout
-        android:background="@color/colorC"
+        android:background="@color/colorB"
         android:orientation="vertical"
         android:padding="10dp"
         android:gravity="center"
