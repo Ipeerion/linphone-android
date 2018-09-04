@@ -2,11 +2,11 @@
 <resources>
 
 	<!-- Global -->
-	<string name="default_domain">sip.linphone.org</string><!-- Set the default domain used for account creation/addresses -->
-    <string name="default_conference_factory_uri">sip:conference-factory@sip.linphone.org</string>
-	<string name="sync_account_type">org.linphone</string> <!-- Change package ! -->
-	<string name="sync_mimetype">vnd.android.cursor.item/org.linphone.profile</string> <!-- Change package, leave .profile at the end. Also change res/xml/contacts.xml ! -->
-	<string name="rls_uri">sip:rls@sip.linphone.org</string>
+	<string name="default_domain">sip.ipeerion.com</string><!-- Set the default domain used for account creation/addresses -->
+    <string name="default_conference_factory_uri">sip:conference-factory@sip.ipeerion.com</string>
+	<string name="sync_account_type">ipeerion.phone</string> <!-- Change package ! -->
+	<string name="sync_mimetype">vnd.android.cursor.item/ipeerion.phone.profile</string> <!-- Change package, leave .profile at the end. Also change res/xml/contacts.xml ! -->
+	<string name="rls_uri">sip:rls@sip.ipeerion.com</string>
 	<bool name="orientation_portrait_only">false</bool>
 	<bool name="show_statusbar_only_on_dialer">false</bool>
 	<bool name="force_use_of_linphone_friends">false</bool>
