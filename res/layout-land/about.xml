@@ -40,7 +40,7 @@
 
     <LinearLayout
         android:baselineAligned="false"
-        android:background="@color/colorC"
+        android:background="@color/colorB"
         android:orientation="horizontal"
         android:layout_weight="1"
         android:layout_width="match_parent"
