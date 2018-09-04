@@ -2,19 +2,19 @@
 <resources>
 
     <!-- Custom -->
-    <string name="app_name">Ipeerion</string>
-    <string name="service_name">Ipeerion Service</string>
-    <string name="addressbook_label">Ipeerion</string>
-    <string name="notification_title">Ipeerion</string>
+    <string name="app_name">IPeerion</string>
+    <string name="service_name">IPeerion Service</string>
+    <string name="addressbook_label">IPeerion</string>
+    <string name="notification_title">IPeerion</string>
     <string name="wait_dialog_text">Starting up</string>
     <string name="notification_registered">%s registered</string>
     <string name="notification_register_failure">%s failed to register</string>
     <string name="tunnel_host"></string>
-    <string name="about_version">Ipeerion Android %s</string>
+    <string name="about_version">IPeerion Android %s</string>
     <string name="about_liblinphone_version">Linphone Core %s</string>
-    <string name="about_text">GNU General Public License V2\n © 2010-2018 Belledonne Communications</string>
+    <string name="about_text">GNU General Public License V2\n © 2018 IPeerion</string>
     <string name="about_link">www.ipeerion.com</string>
-    <string name="sync_account_name">ipeerion contacts</string>
+    <string name="sync_account_name">IPeerion contacts</string>
 
     <!-- Common -->
     <string name="username">Username</string>
@@ -55,7 +55,7 @@
     <string name="update_available">An update is available</string>
 
     <!-- Launch screen -->
-    <string name="app_description">the <i>libre</i> SIP client</string>
+    <string name="app_description">Intelligent Protocols</string>
 
     <!-- Assistant -->
     <string name="welcome">Welcome</string>
@@ -68,20 +68,20 @@
     <string name="assistant_validate_account_1">Your account is created. Please check your mails to validate your account:</string>
     <string name="assistant_validate_account_2">Once it is done, come back here and click on the button.</string>
     <string name="assistant_welcome_desc">This assistant will help you configure and use your SIP account.</string>
-    <string name="assistant_linphone_login_desc">Please enter your username and password of Ipeerion account</string>
+    <string name="assistant_linphone_login_desc">Please enter your username and password of IPeerion account</string>
     <string name="assistant_login_desc">Please enter your username and password with your SIP domain</string>
     <string name="assistant_remote_provisioning_desc">Please provide your provisioning URL</string>
     <string name="transport">Transport</string>
     <string name="assistant_create_account_phone_number_address">Your SIP address is</string>
-    <string name="assistant_login_linphone">Use Ipeerion account</string>
+    <string name="assistant_login_linphone">Use IPeerion account</string>
     <string name="assistant_login_generic">Use SIP account</string>
     <string name="assistant_remote_provisioning">Fetch remote configuration</string>
     <string name="assistant_create_account_part_1">Please confirm your country code and enter your phone number</string>
     <string name="assistant_create_account_part_2">We have sent you a SMS with a validation code to your phone number:</string>
     <string name="assistant_create_account_part_3">To complete your phone number verification, please enter the 4 digit code below:\n</string>
-    <string name="assistant_create_account_part_email">Please enter an username, email and password for your Ipeerion account</string>
+    <string name="assistant_create_account_part_email">Please enter an username, email and password for your IPeerion account</string>
     <string name="assistant_display_name_optional">Display name (optional)</string>
-    <string name="assistant_linphone_account">Use your Ipeerion account</string>
+    <string name="assistant_linphone_account">Use your IPeerion account</string>
     <string name="assistant_generic_account">Use SIP account</string>
     <string name="assistant_remote_provisioning_title">Fetch remote configuration</string>
     <string name="assistant_fetch_apply">Fetch and apply</string>
@@ -117,9 +117,9 @@
     <string name="use_email_for_validation">Use email address for account validation</string>
     <string name="login_with_username">Use your username and password instead of your phone number</string>
     <string name="phone_number_info_title">What will my phone number be used for?</string>
-    <string name="phone_number_info_content">\nThanks to your phone number, your friends will find you more easily.\n\n You will see in your address book who is using Ipeerion and your friends will know that they can reach you on Ipeerion as well.\n</string>
-    <string name="phone_number_link_info_content">\nYour friends will find you more easily if you link your account to your phone number\n\nYou will see in your address book who is using Ipeerion and your friends will know that they can reach you on Ipeerion as well.\n</string>
-    <string name="phone_number_link_info_content_already_account">You can only use your phone number with one Ipeerion account.\n\nIf you had already linked your number to an other account but you prefer to use this one, simply link it now and your number will automatically be moved to this account.</string>
+    <string name="phone_number_info_content">\nThanks to your phone number, your friends will find you more easily.\n\n You will see in your address book who is using IPeerion and your friends will know that they can reach you on IPeerion as well.\n</string>
+    <string name="phone_number_link_info_content">\nYour friends will find you more easily if you link your account to your phone number\n\nYou will see in your address book who is using IPeerion and your friends will know that they can reach you on IPeerion as well.\n</string>
+    <string name="phone_number_link_info_content_already_account">You can only use your phone number with one IPeerion account.\n\nIf you had already linked your number to an other account but you prefer to use this one, simply link it now and your number will automatically be moved to this account.</string>
 
     <!-- Status -->
     <string name="invalid_email">Invalid email</string>
@@ -393,7 +393,7 @@
     <string name="pref_sipinfo_dtmf">Send out-band DTMFs(SIP INFO)</string>
     <string name="pref_call_timeout_title">Call timeout(in seconds)</string>
     <string name="pref_voice_mail">Voice mail URI</string>
-    <string name="pref_dialer_call">Use Ipeerion as default phone app</string>
+    <string name="pref_dialer_call">Use IPeerion as default phone app</string>
 
     <!-- Chat settings -->
     <string name="pref_chat_title">Chat</string>
@@ -478,7 +478,7 @@
     <string name="content_description_search_contact">Search contact</string>
     <string name="content_description_search_country">Search country</string>
     <string name="content_description_all_contacts">All contacts</string>
-    <string name="content_description_linphone_contacts">Ipeerion contacts</string>
+    <string name="content_description_linphone_contacts">IPeerion contacts</string>
     <string name="content_description_call_direction">Call direction</string>
     <string name="content_description_all_calls">All calls</string>
     <string name="content_description_missed_calls">Missed calls</string>
@@ -521,8 +521,8 @@
     <string name="content_description_call_options">Call options</string>
     <string name="content_description_audio_route">Audio route</string>
     <string name="content_description_exit_conference">Exit conference</string>
-    <string name="content_title_notification_service">Ipeerion Service</string>
-    <string name="content_title_notification">Ipeerion Notification</string>
+    <string name="content_title_notification_service">IPeerion Service</string>
+    <string name="content_title_notification">Linphone Notification</string>
     <string name="content_description_conversation_subject">Group chat room subject</string>
     <string name="content_description_conversation_infos">Group chat room info</string>
 </resources>
